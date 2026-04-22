@@ -1,4 +1,3 @@
-import "./App.css";
 import { useBackendTest } from "./hooks";
 
 function App() {
